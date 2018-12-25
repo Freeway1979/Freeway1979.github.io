@@ -1,17 +1,17 @@
 title: Andy Liu
-description: My Personal Blog
+description: 个人主页
 author: Andy Liu
 logo: /static/img/avatar.png
 github: https://github.com/Freeway1979
-about: Freelance developer
+about: 混迹于移动互联网
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: 
+google_analytics: 
 
 share:
   twitter_username: \#
