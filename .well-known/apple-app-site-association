@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "2A2G9N54ZA.andy.liu.NFCTagWriter" 
+                ],
+                "components": [
+                    {
+                        "/": "/nfc/*",
+                        "comment": "Matches any URL whose path starts with /nfc/"
+                    }
+                ]
+            }
+        ]
+    },
+    "appclips": {
+        "apps": [
+            "2A2G9N54ZA.andy.liu.NFCTagWriter.Clip" 
+        ]
+    }
+}
